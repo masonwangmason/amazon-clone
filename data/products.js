@@ -77,6 +77,7 @@ export function loadProducts(fun){
 
     console.log('load products');
 
+    // callback function to load the page
     fun();
   });
   
